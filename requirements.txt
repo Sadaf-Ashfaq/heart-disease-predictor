@@ -1,0 +1,11 @@
+flask
+flask-login
+werkzeug
+pandas
+numpy
+yfinance
+scikit-learn
+matplotlib
+seaborn
+plotly
+joblib
